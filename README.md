@@ -3,7 +3,7 @@ Hi! My name is Eduardo.
 <div>
   <a href="https://github.com/eduardoportella">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoportella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoportella&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoportella&&layout=compact&hide=shell&theme=dark"/>
 </div>
  <br>
 <div  align="center"> 
